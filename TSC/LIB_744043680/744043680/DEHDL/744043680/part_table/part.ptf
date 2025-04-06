@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '744043680'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET";
+{========================================================================================}
+ "Wurth Elektronik", "744043680" (!) = "", "WE-TPC_381692", "Other", "710-744043680", "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/744043680?qs=PGXP4M47uW6VkZq%252BkzjrHA%3D%3D", "Wurth WE-TPC Series Shielded Wire-wound SMD Inductor with a Ferrite Core, 68 uH +/-30% 630mA Idc", ""
+END_PART
+
+END.
