@@ -1,5 +1,4 @@
 #### Spirchez Mihai 331CA
-> An infinite little library, your very own **pocket-sized story companion**.  Read a thousand books, live a thousand lives with OpenBook!~
 ## Block Diagram
 ```mermaid
 graph TD
